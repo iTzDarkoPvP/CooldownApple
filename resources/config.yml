@@ -1,0 +1,12 @@
+# Duracion del cooldown para manzanas doradas en segundos
+cooldown-duration: 30
+
+# Mensajes del plugin
+cooldown-message: "§fDebes esperar §e{seconds}s§f para comer otra manzana"
+cooldown-end-message: "§e- §fYa puedes comer otra manzana dorada"
+
+# Configuracion de mundos
+# El plugin solo funcionara en los mundos que se listen aqui.
+enabled-worlds:
+  - "Survival"
+  
